@@ -72,6 +72,7 @@ Agora que a máquina desligou via Sysprep, precisamos salvar esse estado como a 
 
 No terminal do EVE-NG, descubra o ID do seu laboratório e da pasta temporária da máquina e execute:
 
+![Copia do UUID](uuid-eve.png)
 
  
 # Comando genérico para salvar as alterações no arquivo original<br>
